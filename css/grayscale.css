@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: #42dca3;
+    color: darkorange;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -162,10 +162,13 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 40px;
+    color: darkorange;
 }
 
 .intro .intro-body .intro-text {
     font-size: 18px;
+    color: darkorange;
+    color: darkorange;
 }
 
 @media(min-width:768px) {
@@ -305,17 +308,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid darkorange;
+    color: darkorange;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #42dca3;
+    border: 1px solid darkorange;
     outline: 0;
     color: #000;
-    background-color: #42dca3;
+    background-color: darkorange;
 }
 
 ul.banner-social-buttons {
