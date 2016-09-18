@@ -50,7 +50,7 @@ function init() {
         zoom: 14,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(42.3456671,-88.0938436), // glake
+        center: new google.maps.LatLng(38.9464731,-92.4008787), // como
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
